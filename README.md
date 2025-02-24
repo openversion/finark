@@ -7,5 +7,16 @@ Vanhan Testamentin puolella on otettu huomioon Kaarlo Syvännön yli 100 kohdan 
 Käännös on avoin: sitä saa käyttää vapaasti, sitä voidaan parantaa jatkuvasti ja kaikki muutokset pohjateksteihin ovat avoimesti nähtävillä osoitteessa:
 [https://majorityversion.com/finark](https://majorityversion.com/finark)
 
+## Sovellus
+
+Voit lukea ja kuunnella käännöstä tällä sovelluksella osoitteessa:
+[https://openversion.net/finark/](https://openversion.net/finark/)
+
+Älypuhelimella voit tallettaa sovelluksen kotivalikkoon ja se toimii myös lentotilassa ilman nettiyhteyttä.
+
+Voit ladata myös käännöksen [tekstitiedostot](https://github.com/openversion/finark/tree/master/pub), joita voit käyttää vapaasti omiin tarkoituksiisi.
+
+## Public domain -käännös
+
 "Avoin Raamatunkäännös" on tavaramerkki. Nimeä "Avoin Raamatunkäännös" ja sen lyhenteitä "ARK" tai "FinARK" saa käyttää tunnistamaan ainoastaan tarkkoja kopioita tällä nimellä julkaistusta Pyhän Raamatun julkisessa omistuksessa olevasta käännöksestä, joka on julkaistu verkkosivuilla majorityversion.com, openversion.net ja avoinraamattu.fi (verkko-osoitteet ovat Seutulan rukoushuoneyhdistys Betel ry:n tavaramerkkejä). Itse käännös on vapaa tekijänoikeuksista.
 
