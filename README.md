@@ -2,7 +2,7 @@
 
 Avoin Raamatunkäännös™ (ARK) pohjautuu Kirkkoraamattuun 1933/38. Joitakin käännösvirheitä on korjattu, kieliasua on uudistettu, ja Uuden Testamentin osalta tekstiä on muokattu vastaamaan enemmistötekstejä (Robinson-Pierpont).
 
-Vanhan Testamentin puolella on otettu huomioon Kaarlo Syvännön yli 100 kohdan lista käännösvirheistä. Uuden Testamentin käännökseen on vaikuttanut vahvasti Toivo Koilon Suuri ilosanoma. Pyrkimyksenä on ollut saada aikaan alkuteksteille uskollinen käännös.
+Pyrkimyksenä on ollut saada aikaan alkuteksteille uskollinen käännös nykysuomeksi.
 
 Käännös on avoin: sitä saa käyttää vapaasti, sitä voidaan parantaa jatkuvasti ja kaikki muutokset pohjateksteihin ovat avoimesti nähtävillä osoitteessa:
 [https://majorityversion.com/finark](https://majorityversion.com/finark).
