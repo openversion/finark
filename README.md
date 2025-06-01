@@ -1,11 +1,11 @@
 # Avoin Raamatunkäännös (FinARK)
 
-Avoin Raamatunkäännös™ (ARK) pohjautuu Kirkkoraamattuun 1933/38. Joitakin käännösvirheitä on korjattu, kieliasua on uudistettu, ja Uuden Testamentin osalta tekstiä on muokattu vastaamaan enemmistötekstejä (Robinson-Pierpont).
+Avoin Raamatunkäännös™ (ARK) pohjautuu Kirkkoraamattuun 1933/38. Käännöksessä on korjattu joitakin aiempia virheitä, uudistettu kieliasua, ja Uuden testamentin tekstiä on muokattu vastaamaan bysanttilaista enemmistötekstiperinnettä (Robinson–Pierpont).
 
-Pyrkimyksenä on ollut saada aikaan alkuteksteille uskollinen käännös nykysuomeksi. Kohdat, joissa sanatarkka käännös olisi suomeksi harhaanjohtava, on pyritty kääntämään niin, että alkuperäinen ajatus välittyy oikein suomeksi.
+Tavoitteena on ollut tuottaa alkuteksteille uskollinen käännös nykysuomeksi. Tekstiä on pyritty kääntämään mahdollisimman sanatarkasti silloin, kun se ei vaaranna ymmärrettävyyttä. Idiomien ja muiden idiomaattisten ilmausten kohdalla painopiste on ollut alkuperäisen merkityksen välittämisessä sujuvalla suomen kielellä.
 
-Käännös on avoin: sitä saa käyttää vapaasti, sitä voidaan parantaa jatkuvasti ja kaikki muutokset pohjateksteihin ovat avoimesti nähtävillä osoitteessa:
-[https://majorityversion.com/finark](https://majorityversion.com/finark).
+Käännös on avoin: sitä saa käyttää vapaasti, siihen voidaan tehdä parannuksia jatkuvasti, ja kaikki muutokset pohjateksteihin ovat avoimesti nähtävillä osoitteessa:
+[https://majorityversion.com/finark](https://majorityversion.com/finark)
 
 Voit ladata käännöksen [tekstitiedostot](https://github.com/openversion/finark/tree/master/pub) ja käyttää niitä vapaasti omiin tarkoituksiisi.
 
@@ -18,5 +18,8 @@ Voit lukea ja kuunnella käännöstä älylaitteilla tällä sovelluksella:
 
 ## Public domain -käännös
 
-"Avoin Raamatunkäännös" on tavaramerkki. Nimeä "Avoin Raamatunkäännös" ja sen lyhenteitä "ARK" tai "FinARK" saa käyttää tunnistamaan ainoastaan tarkkoja kopioita tällä nimellä julkaistusta Pyhän Raamatun julkisessa omistuksessa olevasta käännöksestä, joka on julkaistu verkkosivuilla majorityversion.com, openversion.net ja avoinraamattu.fi (verkko-osoitteet ovat Seutulan rukoushuoneyhdistys Betel ry:n tavaramerkkejä). Itse käännös on vapaa tekijänoikeuksista.
+"Avoin Raamatunkäännös" on tavaramerkki. Nimeä Avoin Raamatunkäännös sekä sen lyhenteitä ARK ja FinARK saa käyttää ainoastaan viittaamaan sellaisiin tarkkoihin kopioihin tästä käännöksestä, jotka on julkaistu seuraavilla verkkosivuilla:
+majorityversion.com, openversion.net ja avoinraamattu.fi.
+Nämä verkkotunnukset ovat Seutulan rukoushuoneyhdistys Betel ry:n hallinnoimia tavaramerkkejä.
 
+Itse käännös on vapaa tekijänoikeuksista (Public Domain) ja julkaistu CC0 1.0 -lisenssillä. Tämä tarkoittaa, että tekstiä saa vapaasti kopioida, muokata, levittää ja käyttää myös kaupallisiin tarkoituksiin ilman lupaa tai lähdeviitettä – kuitenkin säilyttäen käännöksen nimen ja lyhenteet vain alkuperäisen version yhteydessä.
