@@ -14,7 +14,7 @@ Voit ladata käännöksen [tekstitiedostot](https://github.com/openversion/finar
 Voit lukea ja kuunnella käännöstä älylaitteilla tällä sovelluksella:
 [https://openversion.net/finark/](https://openversion.net/finark/).
 
-Älypuhelimella voit tallettaa sovelluksen kotivalikkoon ja se toimii myös lentotilassa ilman nettiyhteyttä.
+Älypuhelimella voit tallettaa sovelluksen kotivalikkoon ja se toimii myös lentotilassa ilman Internet-yhteyttä.
 
 ## Public domain -käännös
 
