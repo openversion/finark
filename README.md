@@ -6,7 +6,7 @@ Alkuperäisiä kreikankielisiä käsikirjoituksia ei ole säilynyt, sillä papyr
 
 Niissä kohdissa, joissa esiintyy toisistaan poikkeavia lukutapoja, oikea muoto voidaan useimmiten tunnistaa seuraamalla enemmistön mukaista lukutapaa. Robinson–Pierpontin tekstissä tämä valintatyö on jo tehty: kyseessä on tarkkaan koottu, bysanttilaiseen enemmistötraditioon perustuva Uuden testamentin teksti.
 
-Tavoitteena on ollut tuottaa alkuteksteille uskollinen käännös nykysuomeksi. Tekstiä on pyritty kääntämään mahdollisimman sanatarkasti silloin, kun se ei vaaranna ymmärrettävyyttä. Idiomien ja muiden ilmausten kohdalla painopiste on ollut alkuperäisen merkityksen välittämisessä sujuvalla suomen kielellä.
+Tavoitteena on ollut tuottaa alkuteksteille uskollinen käännös nykysuomeksi. Tekstiä on pyritty kääntämään mahdollisimman sanatarkasti silloin, kun se ei vaaranna ymmärrettävyyttä. Idiomien ja idiomaattisten ilmausten kohdalla painopiste on ollut alkuperäisen merkityksen välittämisessä sujuvalla suomen kielellä.
 
 Käännös on avoin: sitä saa käyttää vapaasti, siihen voidaan tehdä parannuksia jatkuvasti, ja kaikki muutokset pohjateksteihin ovat avoimesti nähtävillä osoitteessa:
 [https://majorityversion.com/finark](https://majorityversion.com/finark)
