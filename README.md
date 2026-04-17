@@ -20,6 +20,30 @@ Voit lukea ja kuunnella käännöstä älylaitteilla tällä sovelluksella:
 
 Älypuhelimella voit tallettaa sovelluksen kotivalikkoon ja se toimii myös lentotilassa ilman Internet-yhteyttä.
 
+## Painettu Raamattu
+
+Ensimmäinen painos Avoimesta Raamatunkäännöksestä on tulossa myyntiin kesän 2026 alussa. Raamattu on pehmeäkantinen, A5-kokoinen ja saatavilla neljässä eri värissä: sininen, musta, ruskea ja sinivalkoinen. 
+
+Kannen hakemiston ja reunassa olevien palkkien avulla on helppo löytää haluttu kirja.
+
+<img src="pub/images/01-finark-2026-pb-a5-blu-front.png" width="45%"> <img src="pub/images/02-finark-2026-pb-a5-blu-back.png" width="45%">
+
+<img src="pub/images/03-finark-2026-pb-a5-blk-front.png" width="45%"> <img src="pub/images/04-finark-2026-pb-a5-blk-back.png" width="45%">
+
+<img src="pub/images/05-finark-2026-pb-a5-tan-front.png" width="45%"> <img src="pub/images/06-finark-2026-pb-a5-tan-back.png" width="45%">
+
+<img src="pub/images/07-finark-2026-pb-a5-wht-front.png" width="45%"> <img src="pub/images/08-finark-2026-pb-a5-wht-back.png" width="45%">
+
+Raamatun teksti on selkeä ja helposti luettava, ja se on aseteltu kahteen palstaan.
+
+![Teksti](pub/images/09-finark-2026-text.png)
+
+Raamatun lopussa on käytännöllisiä liitteitä, kuten esimerkiksi lukuohjelma ja kartat.
+
+![Teksti](pub/images/10-finark-2026-reading-plan.png)
+
+![Teksti](pub/images/11-finark-2026-map.png)
+
 ## Public domain -käännös
 
 "Avoin Raamatunkäännös" on Seutulan rukoushuoneyhdistys Betel ry:n tavaramerkki. Nimeä Avoin Raamatunkäännös sekä sen lyhenteitä ARK ja FinARK saa käyttää ainoastaan viittaamaan tämän käännöksen virallisiin kopioihin, jotka on julkaistu seuraavilla verkkosivuilla:
