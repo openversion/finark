@@ -22,7 +22,7 @@ Voit lukea ja kuunnella käännöstä älylaitteilla tällä sovelluksella:
 
 ## Painettu Raamattu
 
-Ensimmäinen painos Avoimesta Raamatunkäännöksestä on tulossa myyntiin kesän 2026 alussa. Raamattu on pehmeäkantinen, A5-kokoinen ja saatavilla neljässä eri värissä: sininen, musta, ruskea ja sinivalkoinen. 
+Ensimmäinen painos Avoimesta Raamatunkäännöksestä on nyt [ennakkotilattavissa](https://avoinraamattu.fi/tilaa/). Raamattu on pehmeäkantinen, A5-kokoinen ja saatavilla neljässä eri värissä: sininen, musta, ruskea ja sinivalkoinen. 
 
 Kannen hakemiston ja reunassa olevien palkkien avulla on helppo löytää haluttu kirja.
 
