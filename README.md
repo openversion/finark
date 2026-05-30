@@ -13,12 +13,26 @@ Käännös on avoin: sitä saa käyttää vapaasti, siihen voidaan tehdä parann
 
 Voit ladata käännöksen [tekstitiedostot](https://github.com/openversion/finark/tree/master/pub) ja käyttää niitä vapaasti omiin tarkoituksiisi.
 
-## Sovellus
+## Sovellus (kevyt verkkosovellus)
 
-Voit lukea ja kuunnella käännöstä älylaitteilla tällä sovelluksella:
+Voit lukea ja kuunnella käännöstä älylaitteilla tällä yksinkertaisella sovelluksella:
 [openversion.net/finark/](https://openversion.net/finark/).
 
 Älypuhelimella voit tallettaa sovelluksen kotivalikkoon ja se toimii myös lentotilassa ilman Internet-yhteyttä.
+
+## AndBible-sovellus
+
+![AndBible](pub/images/andbible-icon.webp)
+
+Avoin Raamatunkäännös on nyt luettavissa myös maksuttomassa [AndBible](https://andbible.org/)-sovelluksessa Android-laitteille. (iOS-versio kehitteillä)
+
+AndBible on yksi monipuolisimmista Raamatun tutkimiseen tarkoitetuista mobiilisovelluksista. Se ei ole pelkkä Raamatun lukusovellus, vaan tarjoaa laajat työkalut syvälliseen henkilökohtaiseen Raamatun tutkimiseen. Sovelluksessa voi esimerkiksi vertailla eri käännöksiä rinnakkain, tehdä hakuja, käyttää kommentaareja ja sanakirjoja sekä tutkia raamatunkohtien välisiä viittauksia.
+
+AndBible on Raamatun lukijoiden kehittämä avoimen lähdekoodin yhteisöprojekti. Sovellus on täysin ilmainen, toimii myös ilman internetyhteyttä eikä sisällä mainoksia.
+
+Voit asentaa AndBiblen Google Play -kaupasta ja ladata siihen Avoimen Raamatunkäännöksen muiden saatavilla olevien aineistojen joukkoon.
+
+[Asenna AndBible](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 
 ## Painettu Raamattu
 
@@ -40,9 +54,9 @@ Raamatun teksti on selkeä ja helposti luettava, ja se on aseteltu kahteen palst
 
 Raamatun lopussa on käytännöllisiä liitteitä, kuten esimerkiksi lukuohjelma ja kartat.
 
-![Teksti](pub/images/10-finark-2026-reading-plan.png)
+![Lukuohjelma](pub/images/10-finark-2026-reading-plan.png)
 
-![Teksti](pub/images/11-finark-2026-map.png)
+![Kartta](pub/images/11-finark-2026-map.png)
 
 ## Public domain -käännös
 
