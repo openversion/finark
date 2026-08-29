@@ -4,7 +4,7 @@
   <header>
     <work osisWork="FinARK">
       <title>Pyhä Raamattu</title>
-      <date event="eversion" type="ISO">2026.08.28T14.41.18</date>
+      <date event="eversion" type="ISO">2026.08.29T17.25.51</date>
       <publisher>Seutulan Betania-seurakunta</publisher>
       <type type="OSIS">Bible</type>
       <identifier type="OSIS">Bible.fi.FinARK</identifier>
@@ -414,7 +414,7 @@
           
 
           <verse osisID="Gen.3.21">
-            Ja Herra Jumala teki Aadamille ja hänen vaimolleen puvut nahasta ja puki ne heidän yllensä.
+            Ja Herra Jumala teki Aadamille ja hänen vaimolleen puvut nahasta ja puki ne heidän ylleen.
           </verse>
           
         </p>        <p>
@@ -9376,7 +9376,7 @@
           
         </p>        <p>
           <verse osisID="Exod.11.4">
-            Ja Mooses sanoi: "Näin sanoo Herra: Puoliyön aikana minä lähden kulkemaan kautta Egyptin maan.
+            Ja Mooses sanoi: "Näin sanoo Herra: Puolenyön aikana minä lähden kulkemaan kautta Egyptin maan.
           </verse>
           
 
@@ -9556,7 +9556,7 @@
           
         </p>        <p>
           <verse osisID="Exod.12.29">
-            Ja puoliyön aikana tapahtui, että Herra surmasi kaikki Egyptin maan esikoiset, valtaistuimellaan istuvan faraon esikoisesta vankikuopassa olevan vangin esikoiseen asti, sekä kaikki karjan esikoiset.
+            Ja puolenyön aikana tapahtui, että Herra surmasi kaikki Egyptin maan esikoiset, valtaistuimellaan istuvan faraon esikoisesta vankikuopassa olevan vangin esikoiseen asti, sekä kaikki karjan esikoiset.
           </verse>
           
 
@@ -10166,7 +10166,7 @@
           
 
           <verse osisID="Exod.16.16">
-            Ja näin on Herra käskenyt: Kootkaa sitä, jokainen tarpeenne mukaan; ottakaa goomer-mitta mieheen perheenne pääluvun mukaan, kukin niin monelle, kuin kullakin majassaan on."
+            Ja näin on Herra käskenyt: Kootkaa sitä, jokainen tarpeenne mukaan; ottakaa omer-mitta mieheen perheenne pääluvun mukaan, kukin niin monelle, kuin kullakin majassaan on."
           </verse>
           
 
@@ -10176,7 +10176,7 @@
           
 
           <verse osisID="Exod.16.18">
-            Mutta kun he mittasivat sen goomer-mitalla, niin ei sille jäänyt liikaa, joka oli koonnut enemmän, eikä siltä puuttunut, joka oli koonnut vähemmän; jokainen oli koonnut niin paljon, kuin hän tarvitsi.
+            Mutta kun he mittasivat sen omer-mitalla, niin ei sille jäänyt liikaa, joka oli koonnut enemmän, eikä siltä puuttunut, joka oli koonnut vähemmän; jokainen oli koonnut niin paljon, kuin hän tarvitsi.
           </verse>
           
 
@@ -10196,7 +10196,7 @@
           
 
           <verse osisID="Exod.16.22">
-            Mutta kuudentena päivänä he kokosivat sitä leipää kaksinkertaisesti, kaksi goomeria kullekin. Ja kaikki kansan päämiehet tulivat ja ilmoittivat sen Moosekselle.
+            Mutta kuudentena päivänä he kokosivat sitä leipää kaksinkertaisesti, kaksi omeria kullekin. Ja kaikki kansan päämiehet tulivat ja ilmoittivat sen Moosekselle.
           </verse>
           
 
@@ -10246,12 +10246,12 @@
           
 
           <verse osisID="Exod.16.32">
-            Ja Mooses sanoi: "Näin on Herra käskenyt: Ota sitä goomerin täysi säilytettäväksi sukupolvesta sukupolveen, että he näkisivät sen leivän, jolla minä olen ravinnut teitä erämaassa, johdattaessani teitä Egyptin maasta."
+            Ja Mooses sanoi: "Näin on Herra käskenyt: Ota sitä omerin täysi säilytettäväksi sukupolvesta sukupolveen, että he näkisivät sen leivän, jolla minä olen ravinnut teitä erämaassa, johdattaessani teitä Egyptin maasta."
           </verse>
           
 
           <verse osisID="Exod.16.33">
-            Ja Mooses sanoi Aaronille: "Ota astia ja pane siihen goomerin täysi mannaa ja aseta se Herran eteen säilytettäväksi sukupolvesta sukupolveen."
+            Ja Mooses sanoi Aaronille: "Ota astia ja pane siihen omerin täysi mannaa ja aseta se Herran eteen säilytettäväksi sukupolvesta sukupolveen."
           </verse>
           
 
@@ -11946,7 +11946,7 @@
           
 
           <verse osisID="Exod.28.14">
-            ja kahdet käädyt puhtaasta kullasta; tee ne punomalla, niin kuin punonnaista tehdään, ja kiinnitä punotut käädyt palmikoimiin.
+            ja kahdet ketjut puhtaasta kullasta; tee ne punomalla, niin kuin punonnaista tehdään, ja kiinnitä punotut käädyt palmikoimiin.
           </verse>
           
         </p>        <p>
@@ -11986,7 +11986,7 @@
           
 
           <verse osisID="Exod.28.22">
-            Ja tee rintakilpeen puhtaasta kullasta käädyt, punotut, niin kuin punonnaista tehdään.
+            Ja tee rintakilpeen puhtaasta kullasta ketjut, punotut, niin kuin punonnaista tehdään.
           </verse>
           
 
@@ -12821,7 +12821,7 @@
           
         </p>        <p>
           <verse osisID="Exod.33.4">
-            Kun kansa kuuli tämän kovan puheen, tulivat he murheellisiksi, eikä yksikään pukenut koristuksiaan yllensä.
+            Kun kansa kuuli tämän kovan puheen, tulivat he murheellisiksi, eikä yksikään pukenut koristuksiaan ylleen.
           </verse>
           
         </p>        <p>
@@ -13831,7 +13831,7 @@
           
 
           <verse osisID="Exod.39.9">
-            Se oli neliskulmainen ja taskun muotoon tehty; rintakilpi tehtiin vaaksan pituinen ja vaaksan levyinen, taskun muotoon.
+            Rintakilpi tehtiin neliönmuotoiseksi ja kaksinkerroin taitetuksi. Kaksinkerroin taitettuna se oli vaaksan pituinen ja vaaksan levyinen.
           </verse>
           
 
@@ -13861,7 +13861,7 @@
           
 
           <verse osisID="Exod.39.15">
-            Ja rintakilpeen tehtiin puhtaasta kullasta käädyt, punotut, niin kuin punonnaista tehdään.
+            Ja rintakilpeen tehtiin puhtaasta kullasta ketjut, punotut, niin kuin punonnaista tehdään.
           </verse>
           
 
@@ -15133,7 +15133,7 @@
           
 
           <verse osisID="Lev.8.7">
-            Sitten hän pani hänen yllensä ihokkaan ja vyötti hänet vyöllä ja puki hänet viittaan ja pani kasukan hänen päälleen ja vyötti hänet kasukan vyöllä ja sitoi sen hänen ympärilleen
+            Sitten hän pani hänen ylleen ihokkaan ja vyötti hänet vyöllä ja puki hänet viittaan ja pani kasukan hänen päälleen ja vyötti hänet kasukan vyöllä ja sitoi sen hänen ympärilleen
           </verse>
           
 
@@ -15163,7 +15163,7 @@
           
 
           <verse osisID="Lev.8.13">
-            Ja Mooses toi esille Aaronin pojat ja puki heidän yllensä ihokkaat ja vyötti heidät vyöllä ja sitoi päähineet heidän päähänsä, niin kuin Herra oli Moosesta käskenyt.
+            Ja Mooses toi esille Aaronin pojat ja puki heidän ylleen ihokkaat ja vyötti heidät vyöllä ja sitoi päähineet heidän päähänsä, niin kuin Herra oli Moosesta käskenyt.
           </verse>
           
         </p>        <p>
@@ -15423,7 +15423,7 @@
           
         </p>        <p>
           <verse osisID="Lev.10.3">
-            Niin Mooses sanoi Aaronille: "Tämä tapahtuu Herran sanan mukaan: Niissä, jotka ovat minua lähellä, minä osoitan pyhyyteni ja kaiken kansan edessä kirkkauteni." – Mutta Aaron oli ääneti.
+            Niin Mooses sanoi Aaronille: "Tätä Herra tarkoitti sanoessaan: Niissä, jotka ovat minua lähellä, minä osoitan pyhyyteni ja kaiken kansan edessä kunniani." Aaron vaikeni.
           </verse>
           
 
@@ -15833,7 +15833,7 @@
           
 
           <verse osisID="Lev.13.7">
-            Mutta jos ihottuma leviää leviämistään hänen ihossaan, sen jälkeen kuin hän oli näyttäytynyt papille tullakseen puhtaaksi julistetuksi, näyttäytyköön uudestaan papille;
+            Mutta jos ihottuma leviää leviämistään hänen ihossaan, sen jälkeen kun hän oli näyttäytynyt papille tullakseen puhtaaksi julistetuksi, näyttäytyköön uudestaan papille;
           </verse>
           
 
@@ -15973,7 +15973,7 @@
           
 
           <verse osisID="Lev.13.35">
-            Mutta jos syyhelmä leviää leviämistään ihossa, sen jälkeen kuin hänet julistettiin puhtaaksi,
+            Mutta jos syyhelmä leviää leviämistään ihossa, sen jälkeen kun hänet julistettiin puhtaaksi,
           </verse>
           
 
@@ -16578,7 +16578,7 @@
           
 
           <verse osisID="Lev.16.4">
-            ja hän pukekoon pyhän pellava-ihokkaan yllensä, peittäköön alastomuutensa pellavaisella alusasulla, vyöttäköön itsensä pellavavyöllä ja pankoon pellavaisen käärelakin päähänsä. Nämä ovat pyhät vaatteet; ja hän pesköön ruumiinsa vedessä ja pukekoon ne yllensä.
+            ja hän pukekoon pyhän pellava-ihokkaan ylleen, peittäköön alastomuutensa pellavaisella alusasulla, vyöttäköön itsensä pellavavyöllä ja pankoon pellavaisen käärelakin päähänsä. Nämä ovat pyhät vaatteet; ja hän pesköön ruumiinsa vedessä ja pukekoon ne ylleen.
           </verse>
           
 
@@ -16718,7 +16718,7 @@
           
 
           <verse osisID="Lev.16.32">
-            Ja sovituksen toimittakoon se pappi, joka on voideltu ja joka on vihitty papinvirkaan isänsä sijaan; hän pukekoon yllensä pellavavaatteet, pyhät vaatteet,
+            Ja sovituksen toimittakoon se pappi, joka on voideltu ja joka on vihitty papinvirkaan isänsä sijaan; hän pukekoon ylleen pellavavaatteet, pyhät vaatteet,
           </verse>
           
 
@@ -18298,7 +18298,7 @@
           
 
           <verse osisID="Lev.26.15">
-            vaan hylkäätte halpana minun ohjeeni ja teidän sielunne vieroo minun säädöksiäni, niin ettette pidä kaikkia minun käskyjäni, vaan rikotte minun liittoni,
+            vaan hylkäätte halpana minun ohjeeni ja teidän sielunne inhoaa minun säädöksiäni, niin ettette pidä kaikkia minun käskyjäni, vaan rikotte minun liittoni,
           </verse>
           
 
@@ -19630,12 +19630,12 @@
           
 
           <verse osisID="Num.5.7">
-            tunnustakoon hän rikkomuksensa, jonka on tehnyt, ja maksakoon velkansa täyteen määrään sekä pankoon siihen lisäksi viidennen osan sen arvosta ja antakoon sen sille, jolle hän on velkaa.
+            tunnustakoon hän rikkomuksensa, jonka on tehnyt, ja maksakoon korvauksen täysimääräisenä sekä pankoon siihen lisäksi viidennen osan sen arvosta ja antakoon sen sille, jota vastaan hän on rikkonut.
           </verse>
           
 
           <verse osisID="Num.5.8">
-            Mutta jos hänellä ei ole sukulunastajaa, jolle velka olisi maksettava, maksettakoon velka Herralle, se on papille, ja sitä paitsi sovituspässi, jolla toimitetaan syynalaiselle sovitus.
+            Mutta jos miehellä ei ole sukulunastajaa, jolle hyvitys olisi maksettava, maksettakoon hyvitys Herralle, papille, sen sovituspässin lisäksi, jolla hänen puolestaan toimitetaan sovitus.
           </verse>
           
 
@@ -35926,7 +35926,7 @@
           
 
           <verse osisID="Judg.16.3">
-            Ja Simson makasi siellä puoliyöhön asti. Mutta puoliyön aikana hän nousi, tarttui kaupungin portin oviin ja molempiin ovenpieliin, nosti ne salpoineen paikaltaan, asetti hartioilleen ja vei ne sen vuoren laelle, joka on vastapäätä Hebronia.
+            Ja Simson makasi siellä puoliyöhön asti. Mutta puolenyön aikana hän nousi, tarttui kaupungin portin oviin ja molempiin ovenpieliin, nosti ne salpoineen paikaltaan, asetti hartioilleen ja vei ne sen vuoren laelle, joka on vastapäätä Hebronia.
           </verse>
           
         </p>        <p>
@@ -37108,7 +37108,7 @@
           
 
           <verse osisID="Ruth.3.8">
-            Puoliyön aikana mies säikähti ja kumartui eteenpäin; ja katso, nainen makasi hänen jalkapohjissaan.
+            Puolenyön aikana mies säikähti ja kumartui eteenpäin; ja katso, nainen makasi hänen jalkapohjissaan.
           </verse>
           
         </p>        <p>
@@ -39580,7 +39580,7 @@
           
         </p>        <p>
           <verse osisID="1Sam.17.38">
-            Ja Saul puki takkinsa Daavidin ylle ja pani pronssikypärän hänen päähänsä sekä panssarin hänen yllensä.
+            Ja Saul puki takkinsa Daavidin ylle ja pani pronssikypärän hänen päähänsä sekä panssarin hänen ylleen.
           </verse>
           
 
@@ -67968,12 +67968,12 @@
           
 
           <verse osisID="Job.12.7">
-            "Mutta kysypä eläimiltä, niin ne opettavat sinua, ja taivaan linnuilta, niin ne ilmoittavat sinulle;
+            "Mutta kysypä eläimiltä, niin ne opettavat sinua, ja taivaan linnuilta, niin ne ilmoittavat sinulle.
           </verse>
           
 
           <verse osisID="Job.12.8">
-            tai tutkistele maata, niin se opettaa sinua, ja meren kalat kertovat sinulle.
+            Tai puhu maalle, niin se opettaa sinua, ja meren kalat kertovat sinulle.
           </verse>
           
 
@@ -67983,7 +67983,7 @@
           
 
           <verse osisID="Job.12.10">
-            hänen, jonka kädessä on kaiken elävän sielu ja kaikkien ihmisolentojen henki?" –
+            hänen, jonka kädessä on kaiken elävän sielu ja kaikkien ihmisolentojen henki?"
           </verse>
           
 
@@ -72155,7 +72155,7 @@
           
 
           <verse osisID="Ps.1.2">
-            Vaan Herran laki on hänen ihastuksensa, ja hän tutkistelee hänen lakiaan päivät ja yöt!
+            Vaan Herran laki on hänen ihastuksensa, ja hänen lakiaan hän mietiskelee päivin ja öin!
           </verse>
           
 
@@ -78100,7 +78100,7 @@
           
 
           <verse osisID="Ps.74.9">
-            Merkkejämme me emme näe, ei ole enää profeettaa, eikä ole joukossamme ketään, joka tietäisi, kuinka kauan-.
+            Merkkejämme me emme näe, ei ole enää profeettaa, eikä ole joukossamme ketään, joka tietäisi, kuinka kauan.
           </verse>
           
 
@@ -78310,7 +78310,7 @@
           
 
           <verse osisID="Ps.77.3">
-            Minä muistan Jumalaa ja huokaan; minä tutkistelen, ja minun henkeni nääntyy. Sela.
+            Minä muistan Jumalaa ja huokaan; minä valitan, ja minun henkeni nääntyy. Sela.
           </verse>
           
 
@@ -78355,7 +78355,7 @@
           
 
           <verse osisID="Ps.77.12">
-            Minä tutkistelen kaikkia sinun töitäsi, minä mietin sinun suuria tekojasi.
+            Minä mietin kaikkia sinun töitäsi ja pohdin sinun suuria tekojasi.
           </verse>
           
 
@@ -81855,7 +81855,7 @@
           
 
           <verse osisID="Ps.109.18">
-            Hän puki kirouksen yllensä niin kuin vaatteensa, ja se meni hänen sisuksiinsa niin kuin vesi ja hänen luihinsa niin kuin öljy.
+            Hän puki kirouksen ylleen niin kuin vaatteensa, ja se meni hänen sisuksiinsa niin kuin vesi ja hänen luihinsa niin kuin öljy.
           </verse>
           
 
@@ -82605,7 +82605,7 @@
           
 
           <verse osisID="Ps.119.15">
-            Minä tutkistelen sinun asetuksiasi ja katselen sinun polkujasi.
+            Minä pohdin sinun asetuksiasi ja katselen sinun polkujasi.
           </verse>
           
 
@@ -82645,7 +82645,7 @@
           
 
           <verse osisID="Ps.119.23">
-            Ruhtinaatkin istuvat ja pitävät neuvoa minua vastaan, mutta palvelijasi tutkistelee sinun käskyjäsi.
+            Ruhtinaatkin istuvat ja pitävät neuvoa minua vastaan, mutta palvelijasi miettii sinun säädöksiäsi.
           </verse>
           
 
@@ -82665,7 +82665,7 @@
           
 
           <verse osisID="Ps.119.27">
-            Saata minut ymmärtämään asetustesi tie, niin minä tutkistelen sinun ihmeitäsi.
+            Saata minut ymmärtämään asetustesi tie, niin minä mietin sinun ihmeitäsi.
           </verse>
           
 
@@ -82770,7 +82770,7 @@
           
 
           <verse osisID="Ps.119.48">
-            Minä kohotan käteni sinun käskyjesi puoleen, jotka ovat minulle rakkaat, ja tutkistelen sinun säädöksiäsi.
+            Minä kohotan käteni sinun käskyjesi puoleen, jotka ovat minulle rakkaat, ja mietin sinun säädöksiäsi.
           </verse>
           
 
@@ -82840,7 +82840,7 @@
           
 
           <verse osisID="Ps.119.62">
-            Puoliyöstä minä nousen kiittämään sinua sinun vanhurskautesi oikeuksista.
+            Keskiyöllä minä nousen kiittämään sinua sinun vanhurskautesi oikeuksista.
           </verse>
           
 
@@ -82875,7 +82875,7 @@
           
 
           <verse osisID="Ps.119.69">
-            Julkeat tahraavat minua valheillaan, mutta minä pidän kaikesta sydämestäni kiinni sinun käskyistäsi.
+            Julkeat tahraavat minua valheillaan, mutta minä pidän kaikesta sydämestäni kiinni sinun asetuksistasi.
           </verse>
           
 
@@ -82920,7 +82920,7 @@
           
 
           <verse osisID="Ps.119.78">
-            Joutukoot julkeat häpeään, sillä he sortavat minua syyttä; minä tutkistelen sinun asetuksiasi.
+            Joutukoot julkeat häpeään, sillä he sortavat minua syyttä. Minä mietin sinun asetuksiasi.
           </verse>
           
 
@@ -83270,7 +83270,7 @@
           
 
           <verse osisID="Ps.119.148">
-            Jo ennen yön vartiohetkiä minun silmäni tutkistelevat sinun puhettasi.
+            Silmäni heräävät ennen yövartioita, jotta voin mietiskellä sinun sanaasi.
           </verse>
           
 
@@ -84650,7 +84650,7 @@
           
 
           <verse osisID="Ps.143.5">
-            Minä muistelen muinaisia päiviä, tutkistelen kaikkia sinun töitäsi ja ajattelen sinun kättesi tekoja.
+            Minä muistelen muinaisia päiviä, mietin kaikkia sinun tekojasi ja ajattelen sinun kättesi töitä.
           </verse>
           
 
@@ -84795,7 +84795,7 @@
           
 
           <verse osisID="Ps.145.5">
-            Sinun valtasuuruutesi kirkkautta ja kunniaa ja sinun ihmeellisiä tekojasi minä tahdon tutkistella.
+            Sinun valtasuuruutesi kirkkautta ja kunniaa ja sinun ihmeellisiä tekojasi minä mietiskelen.
           </verse>
           
 
@@ -87467,7 +87467,7 @@
           
 
           <verse osisID="Prov.15.32">
-            Joka kuritusta vieroo, pitää sielunsa halpana; mutta joka nuhdetta kuuntelee, se saa mieltä.
+            Joka hylkää kurituksen, halveksii omaa sieluaan, mutta joka kuuntelee nuhdetta, hankkii ymmärrystä.
           </verse>
           
 
@@ -93933,7 +93933,7 @@
           
 
           <verse osisID="Isa.22.21">
-            ja puetan hänen yllensä sinun ihokkaasi, vyötän hänet sinun vyölläsi ja panen sinun valtasi hänen käteensä, niin että hän on oleva isänä Jerusalemin asukkaille ja Juudan suvulle.
+            ja puetan hänen ylleen sinun ihokkaasi, vyötän hänet sinun vyölläsi ja panen sinun valtasi hänen käteensä, niin että hän on oleva isänä Jerusalemin asukkaille ja Juudan suvulle.
           </verse>
           
 
@@ -97838,7 +97838,7 @@
           
 
           <verse osisID="Isa.59.17">
-            Ja hän puki yllensä vanhurskauden kuin rintahaarniskan ja pani pelastuksen kypärän päähänsä, hän puki koston vaatteet puvukseen ja verhoutui kiivauteen niin kuin viittaan.
+            Ja hän puki ylleen vanhurskauden kuin rintahaarniskan ja pani pelastuksen kypärän päähänsä, hän puki koston vaatteet puvukseen ja verhoutui kiivauteen niin kuin viittaan.
           </verse>
           
 
@@ -112390,7 +112390,7 @@ eivätkä vaeltaneet minun käskyjeni mukaan.
           
 
           <verse osisID="Ezek.44.19">
-            Kun he sitten menevät pois ulompaan esipihaan, kansan luokse ulompaan esipihaan, riisukoot vaatteensa, joissa ovat virkaa toimittaneet, jättäkööt ne pyhäkön kammioihin ja pukekoot yllensä toiset vaatteet, etteivät pyhittäisi kansaa vaatteillaan.
+            Kun he sitten menevät pois ulompaan esipihaan, kansan luokse ulompaan esipihaan, riisukoot vaatteensa, joissa ovat virkaa toimittaneet, jättäkööt ne pyhäkön kammioihin ja pukekoot ylleen toiset vaatteet, etteivät pyhittäisi kansaa vaatteillaan.
           </verse>
           
         </p>        <p>
@@ -120029,7 +120029,7 @@ eivätkä vaeltaneet minun käskyjeni mukaan.
           
 
           <verse osisID="Zech.13.4">
-            Sinä päivänä häpeävät profeetat itse kukin näkyään, kun he ennustavat, eivätkä he valehdellakseen pue yllensä karvaista viittaa.
+            Sinä päivänä häpeävät profeetat itse kukin näkyään, kun he ennustavat, eivätkä he valehdellakseen pue ylleen karvaista viittaa.
           </verse>
           
 
