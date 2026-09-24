@@ -2799,7 +2799,7 @@ exod 40:0 Luku 40 HEADER
 exod 40:1 Ja Herra puhui Moosekselle sanoen:
 exod 40:2 "Ensimmäisen kuukauden ensimmäisenä päivänä pystytä asumus, ilmestysmaja.
 exod 40:3 Ja aseta sinne lain arkki ja ripusta esirippu arkin eteen.
-exod 40:4 Ja tuo sinne pöytä ja lado sille näkyleivät päälletysten; ja tuo sinne seitsenhaarainen lamppu ja nosta sen lamput paikoilleen.
+exod 40:4 Ja tuo sinne pöytä ja lado sille näkyleivät päällekkäin; ja tuo sinne seitsenhaarainen lamppu ja nosta sen lamput paikoilleen.
 exod 40:5 Ja sijoita kultainen suitsutusalttari lain arkin eteen ja ripusta verho majan oveen.
 exod 40:6 Ja polttouhrialttari sijoita asumuksen, ilmestysmajan, oven eteen.
 exod 40:7 Ja allas sijoita ilmestysmajan ja alttarin välille ja kaada siihen vettä.
@@ -2818,7 +2818,7 @@ exod 40:19 Ja hän levitti asumuksen ylle teltan ja asetti ylimmäksi sen pääl
 exod 40:20 Sitten hän otti lain, pani sen arkkiin ja kiinnitti arkkiin korennot ja asetti armoistuimen arkin päälle.
 exod 40:21 Ja hän toi arkin asumukseen ja sijoitti paikoilleen sitä verhoavan esiripun, ripustaen sen lain arkin eteen, niin kuin Herra oli Moosesta käskenyt.
 exod 40:22 Ja hän asetti pöydän ilmestysmajaan, asumuksen pohjoissivulle, esiripun ulkopuolelle
-exod 40:23 ja latoi sille näkyleivät päälletysten Herran eteen, niin kuin Herra oli Moosesta käskenyt.
+exod 40:23 ja latoi sille näkyleivät päällekkäin Herran eteen, niin kuin Herra oli Moosesta käskenyt.
 exod 40:24 Ja hän asetti seitsenhaaraisen lampun ilmestysmajaan, vastapäätä pöytää, asumuksen eteläsivulle,
 exod 40:25 ja nosti lamput paikoilleen Herran eteen, niin kuin Herra oli Moosesta käskenyt.
 exod 40:26 Ja hän asetti kultaisen alttarin ilmestysmajaan esiripun eteen
@@ -3564,7 +3564,7 @@ lev 24:2 "Käske israelilaisten tuoda sinulle puhdasta, survomalla saatua öljyp
 lev 24:3 Ulkopuolella esirippua, joka on lain arkin edessä ilmestysmajassa, Aaron hoitakoon sitä niin, että se aina, illasta aamuun asti, palaa Herran edessä. Se olkoon teille ikuinen säädös sukupolvesta sukupolveen.
 lev 24:4 Aitokultaisen seitsenhaaraisen lampun lamppuja hän hoitakoon niin, että ne aina palavat Herran edessä.
 lev 24:5 Ja ota hienoja jauhoja ja leivo niistä kaksitoista kakkua; joka kakussa olkoon niitä kaksi kymmenesosaa.
-lev 24:6 Ja lado ne päälletysten kahteen pinoon, kuusi pinoonsa, aitokultaiselle pöydälle Herran eteen.
+lev 24:6 Ja lado ne päällekkäin kahteen pinoon, kuusi pinoonsa, puhtaalle pöydälle Herran eteen.
 lev 24:7 Ja pane pinojen päälle puhdasta suitsuketta leipien alttariuhriosana uhriksi Herralle.
 lev 24:8 Sapatti sapatilta hän aina asettakoon ne Herran eteen israelilaisten antina; se on ikuinen liitto.
 lev 24:9 Ne olkoot Aaronin ja hänen poikiensa omat, ja he syökööt ne pyhässä paikassa, sillä ne ovat korkeasti-pyhät; ne ovat hänen ikuinen osuutensa Herran uhreista."
@@ -7161,7 +7161,7 @@ judg 15:4 Niin Simson meni ja pyydysti kolmesataa kettua. Ja hän otti tulisoiht
 judg 15:5 Sitten hän sytytti tulisoihdut ja päästi ketut menemään filistealaisten viljapeltoihin; näin hän sytytti palamaan sekä kuhilaat että kasvavan viljan, viinitarhat ja öljypuut.
 judg 15:6 Niin filistealaiset kysyivät: "Kuka tämän on tehnyt?" Vastattiin: "Simson, timnalaisen vävy, koska tämä otti hänen vaimonsa ja antoi sen hänen sulhaspojalleen." Niin filistealaiset menivät ylös ja polttivat sekä vaimon että hänen isänsä tulessa.
 judg 15:7 Mutta Simson sanoi heille: "Koska te näin teette, niin totisesti minä en lakkaa, ennen kuin olen kostanut teille."
-judg 15:8 Ja hän pieksi heitä pahasti kupeisiin jos kinttuihinkin. Sitten hän meni alas ja asettui asumaan Etamin kallioluolaan.
+judg 15:8 Hän pieksi heidät armotta ja perinpohjaisesti. Sitten hän meni alas ja asettui asumaan Etamin kallion halkeamaan.
 judg 15:9 Silloin filistealaiset nousivat Juudan alueelle, leiriytyivät sinne ja asettuivat Lehiin.
 judg 15:10 Ja Juudan miehet kysyivät: "Miksi te olette nousseet meitä vastaan?" He vastasivat: "Me olemme tulleet sitomaan Simsonin tehdäksemme hänelle, niin kuin hän teki meille."
 judg 15:11 Niin kolmetuhatta miestä Juudasta meni alas Etamin kallioluolalle, ja he sanoivat Simsonille: "Etkö tiedä, että filistealaiset hallitsevat meitä; mitä oletkaan meille tehnyt!" Hän vastasi heille: "Niin kuin he tekivät minulle, niin minäkin tein heille."
@@ -7183,7 +7183,7 @@ judg 16:5 Niin filistealaisten ruhtinaat tulivat naisen luo ja sanoivat hänelle
 judg 16:6 Silloin Delila sanoi Simsonille: "Ilmaise minulle, missä sinun suuri voimasi on ja miten sinut voidaan sitoa ja masentaa."
 judg 16:7 Simson vastasi hänelle: "Jos minut sidotaan seitsemällä tuoreella jänteellä, jotka eivät ole kuivuneet, niin minä tulen heikoksi ja olen niin kuin muutkin ihmiset."
 judg 16:8 Niin filistealaisten ruhtinaat toivat naiselle seitsemän tuoretta jännettä, jotka eivät olleet kuivuneet, ja hän sitoi hänet niillä.
-judg 16:9 Mutta sisähuoneessa hänellä istui väijyjiä. Ja hän sanoi hänelle: "Filistealaiset ovat kimpussasi, Simson!" Silloin tämä katkaisi jänteet, niin kuin katkeaa tulen kärventämä rohdinlanka. Ei siis päästy hänen voimansa perille.
+judg 16:9 Mutta sisähuoneessa hänellä istui väijyjiä. Ja hän sanoi hänelle: "Filistealaiset ovat kimpussasi, Simson!" Silloin tämä katkaisi jänteet, niin kuin katkeaa tulen kärventämä rohdinlanka. Eikä hänen voimansa salaisuus tullut ilmi.
 judg 16:10 Ja Delila sanoi Simsonille: "Katso, sinä olet pettänyt minut ja valehdellut minulle. Ilmaise nyt minulle, miten sinut voidaan sitoa."
 judg 16:11 Niin hän sanoi hänelle: "Jos minut sidotaan uusilla köysillä, joilla ei ole tehty työtä, niin minä tulen heikoksi ja olen niin kuin muutkin ihmiset."
 judg 16:12 Niin Delila otti uudet köydet, sitoi hänet niillä ja sanoi hänelle: "Filistealaiset ovat kimpussasi, Simson!" Ja sisähuoneessa istui väijyjiä. Mutta hän katkaisi ne käsivarsistaan niin kuin langan.
@@ -7199,12 +7199,12 @@ judg 16:21 Silloin filistealaiset ottivat hänet kiinni ja puhkaisivat hänen si
 judg 16:22 Mutta hiukset rupesivat jälleen kasvamaan hänen päähänsä sen jälkeen, kuin ne olivat ajetut.
 judg 16:23 Niin filistealaisten ruhtinaat kokoontuivat uhraamaan suurta uhria jumalalleen Dagonille ja iloa pitämään, sillä he sanoivat: "Meidän jumalamme on antanut vihollisemme Simsonin meidän käsiimme."
 judg 16:24 Kun kansa näki hänet, niin he ylistivät jumalaansa, sillä he sanoivat: "Meidän jumalamme on antanut käsiimme vihollisemme, maamme hävittäjän, sen, joka surmasi meistä niin monta."
-judg 16:25 Ja kun heidän sydämensä olivat tulleet iloisiksi, niin he sanoivat: "Noutakaa Simson huvittamaan meitä." Niin Simson noudettiin vankilasta huvittamaan heitä. Ja he asettivat hänet seisomaan pylvästen väliin.
+judg 16:25 Ja kun heidän sydämensä olivat tulleet iloisiksi, niin he sanoivat: "Noutakaa Simson huvittamaan meitä." Niin Simson noudettiin vankilasta huvittamaan heitä. Ja he asettivat hänet seisomaan pylväiden väliin.
 judg 16:26 Silloin Simson sanoi palvelijalle, joka piti kiinni hänen kädestään: "Päästä minut tunnustelemaan pylväitä, joiden varassa rakennus on, nojatakseni niihin."
 judg 16:27 Mutta huone oli täynnä miehiä ja naisia; myös kaikki filistealaisten ruhtinaat olivat siellä, ja katolla oli noin kolmetuhatta miestä ja naista katselemassa, kuinka Simson heitä huvitti.
 judg 16:28 Silloin Simson huusi Herraa ja sanoi: "Herra, Herra, muista minua ja vahvista minua ainoastaan tämä kerta, oi Jumala, niin että saisin filistealaisille yhdellä kertaa kostetuksi molemmat silmäni!"
 judg 16:29 Sitten Simson kiersi käsivartensa molempien keskipylväiden ympäri, joiden varassa rakennus oli, toisen ympäri oikean ja toisen ympäri vasemman käsivartensa, ja painautui niitä vastaan.
-judg 16:30 Ja Simson sanoi: "Menköön oma henkeni yhdessä filistealaisten kanssa!" Ja hän taivuttautui eteenpäin niin rajusti, että rakennus luhistui ruhtinasten ja kaiken siinä olevan kansan päälle. Ja kuolleita, jotka hän surmasi kuollessaan, oli enemmän kuin niitä, jotka hän oli surmannut eläessään.
+judg 16:30 Ja Simson sanoi: "Menköön oma henkeni yhdessä filistealaisten kanssa!" Ja hän taivuttautui eteenpäin niin rajusti, että rakennus luhistui ruhtinaiden ja kaiken siinä olevan kansan päälle. Ja kuolleita, jotka hän surmasi kuollessaan, oli enemmän kuin niitä, jotka hän oli surmannut eläessään.
 judg 16:31 Niin hänen veljensä ja koko hänen isänsä perhe tulivat alas ja ottivat hänet ja veivät ja hautasivat hänet Soran ja Estaolin välille, hänen isänsä Manoahin hautaan. Hän oli ollut tuomarina Israelissa kaksikymmentä vuotta.
 judg 17:0 Luku 17 HEADER
 judg 17:1 Efraimin vuoristossa oli mies, nimeltä Miika.
@@ -7484,7 +7484,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 1sam 2:5 Kylläisinä olleet käyvät palvelukseen leipäpalkoilla, nälkää nähneet eivät enää nälkää näe. Hedelmätön synnyttää seitsemän lasta, lapsirikas kuihtuu.
 1sam 2:6 Herra antaa kuoleman ja antaa elämän, hän vie alas tuonelaan ja tuo ylös jälleen.
 1sam 2:7 Herra köyhdyttää ja rikastuttaa, hän alentaa ja ylentää.
-1sam 2:8 Hän tomusta nostaa halvan, hän loasta korottaa köyhän, pannakseen heidät ruhtinasten rinnalle ja antaakseen heidän periä kunniasijat. Sillä maan tukipylväät ovat Herran, hän on asettanut niiden päälle maailman.
+1sam 2:8 Hän tomusta nostaa halvan, hän loasta korottaa köyhän, pannakseen heidät ruhtinaiden rinnalle ja antaakseen heidän periä kunniasijat. Sillä maan tukipylväät ovat Herran, hän on asettanut niiden päälle maailman.
 1sam 2:9 Hän varjelee hurskastensa jalat, mutta jumalattomat hukkuvat pimeyteen; sillä mies ei omalla voimallaan mitään voi.
 1sam 2:10 Jotka taistelevat Herraa vastaan, joutuvat kauhun valtaan; hän jylisee taivaissa heitä vastaan. Herra tuomitsee maan ääret. Hän antaa voiman kuninkaalleen ja korottaa voideltunsa sarven."
 1sam 2:11 Sitten Elkana meni kotiinsa Ramaan; mutta poikanen palveli Herraa pappi Eelin johdolla.
@@ -7831,7 +7831,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 1sam 15:19 Miksi et kuullut Herran ääntä, vaan syöksyit saaliin kimppuun ja teit sitä, mikä on pahaa Herran silmissä?"
 1sam 15:20 Saul vastasi Samuelille: "Minähän olen kuullut Herran ääntä ja tehnyt sen matkan, jolle Herra minut lähetti. Minä olen tuonut tänne Agagin, Amalekin kuninkaan, ja vihkinyt tuhon omiksi amalekilaiset.
 1sam 15:21 Mutta väki on ottanut saaliista lampaita ja nautoja, parhaan osan siitä, mikä oli vihitty tuhon omaksi, uhratakseen ne Herralle, sinun Jumalallesi, Gilgalissa."
-1sam 15:22 Silloin Samuel sanoi: "Haluaako Herra polttouhreja ja teurasuhreja yhtä hyvin kuin kuuliaisuutta Herran äänelle? Katso, kuuliaisuus on parempi kuin uhri ja tottelevaisuus parempi kuin pässien rasva.
+1sam 15:22 Silloin Samuel sanoi: "Kelpaavatko Herralle polttouhrit ja teurasuhrit yhtä hyvin kuin kuuliaisuus Herran äänelle? Katso, kuuliaisuus on parempi kuin uhri ja tottelevaisuus parempi kuin pässien rasva.
 1sam 15:23 Sillä tottelemattomuus on taikuuden syntiä, ja niskoittelu on valhetta ja kuin kotijumalien palvelusta. Koska sinä olet hylännyt Herran sanan, on myös hän hylännyt sinut, etkä sinä enää saa olla kuninkaana."
 1sam 15:24 Saul sanoi Samuelille: "Minä olen tehnyt syntiä, kun olen rikkonut Herran käskyn ja sinun sanasi; sillä minä pelkäsin kansaa ja kuulin heidän ääntään.
 1sam 15:25 Anna nyt minulle syntini anteeksi ja palaa minun kanssani, niin minä kumartaen rukoilen Herraa."
@@ -10918,7 +10918,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 1chr 7:37 Beser, Hod, Samma, Silsa, Jitran ja Beera.
 1chr 7:38 Ja Jeterin pojat olivat Jefunne, Fispa ja Ara.
 1chr 7:39 Ja Ullan pojat olivat Arah, Hanniel ja Risja.
-1chr 7:40 Kaikki nämä olivat Asserin jälkeläisiä, sukujensa päämiehiä, valittuja sotaurhoja, ruhtinasten päämiehiä. Ja heidän sukuluetteloihin merkittyjen sotakelpoisten miestensä lukumäärä oli kaksikymmentäkuusituhatta.
+1chr 7:40 Kaikki nämä olivat Asserin jälkeläisiä, sukujensa päämiehiä, valittuja sotaurhoja, ruhtinaiden päämiehiä. Ja heidän sukuluetteloihin merkittyjen sotakelpoisten miestensä lukumäärä oli kaksikymmentäkuusituhatta.
 1chr 8:0 Luku 8 HEADER
 1chr 8:1 Benjaminille syntyi esikoisena Bela, toisena Asbel, kolmantena Ahrah,
 1chr 8:2 neljäntenä Noha ja viidentenä Rafa.
@@ -11110,7 +11110,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 1chr 12:39 Ja he olivat siellä Daavidin luona kolme päivää ja söivät ja joivat, sillä heidän heimolaisensa olivat evästäneet heidät.
 1chr 12:40 Nekin, jotka asuivat lähellä heitä, aina Isaskariin, Sebuloniin ja Naftaliin saakka, toivat aasien, kamelien, muulien ja härkien selässä ruokatavaraa: jauhoja, viikunakakkuja ja rusinakakkuja, viiniä ja öljyä, nautoja ja pikkukarjaa viljalti; sillä Israelissa oli ilo.
 1chr 13:0 Luku 13 HEADER
-1chr 13:1 Ja Daavid neuvotteli tuhannen- ja sadanpäämiesten, kaikkien ruhtinasten, kanssa.
+1chr 13:1 Ja Daavid neuvotteli tuhannen- ja sadanpäämiesten, kaikkien ruhtinaiden, kanssa.
 1chr 13:2 Ja Daavid sanoi kaikelle Israelin seurakunnalle: "Jos se on teistä hyvä ja jos se tulee Herralta, meidän Jumalaltamme, niin lähettäkäämme joka taholle sana veljillemme, jotka ovat jääneet kaikkiin Israelin maakuntiin, ja papeille ja leeviläisille, jotka asuvat heidän luonaan laidunmaittensa kaupungeissa, että he kokoontuvat meidän luoksemme,
 1chr 13:3 ja siirtäkäämme Jumalamme arkki luoksemme, sillä Saulin päivinä emme siitä välittäneet."
 1chr 13:4 Silloin koko seurakunta vastasi, että niin oli tehtävä, sillä se oli oikein koko kansan silmissä.
@@ -11842,7 +11842,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 2chr 13:8 Ja nyt te luulette voivanne vastustaa Herran kuninkuutta, joka on Daavidin poikien käsissä, koska teitä on suuri joukko ja teillä on kultavasikat, jotka Jerobeam on teettänyt teille jumaliksi.
 2chr 13:9 Ettekö te ole karkottaneet Herran pappeja, Aaronin poikia, ja leeviläisiä, ja itse tehneet itsellenne pappeja, niin kuin muiden maiden kansat tekevät? Ken tahansa tuli papinvirkaan vihittäväksi, mukanaan mullikka ja seitsemän pässiä, hänestä tuli epäjumalan pappi.
 2chr 13:10 Mutta meidän Jumalamme on Herra, ja häntä me emme ole hylänneet. Ja pappeina palvelevat Herraa Aaronin pojat, ja leeviläiset toimittavat palvelustehtäviä.
-2chr 13:11 He polttavat Herralle polttouhreja joka aamu ja joka ilta ja hyvänhajuista suitsutusta, ja he latovat leivät päälletysten aitokultaiselle pöydälle ja sytyttävät joka ilta kultaisen seitsenhaaraisen lampun lamppuineen; sillä me hoidamme Herran, meidän Jumalamme, meille antamat tehtävät, mutta te olette hänet hylänneet.
+2chr 13:11 He polttavat Herralle polttouhreja joka aamu ja joka ilta ja hyvänhajuista suitsutusta, ja he latovat leivät päällekkäin puhtaalle pöydälle ja sytyttävät joka ilta kultaisen seitsenhaaraisen lampun lamppuineen; sillä me hoidamme Herran, meidän Jumalamme, meille antamat tehtävät, mutta te olette hänet hylänneet.
 2chr 13:12 Ja katso, meidän kanssamme, meidän edellämme on Jumala ja ovat hänen pappinsa, ja hälytystorvet toitottamassa teitä vastaan. Te israelilaiset, älkää sotiko Herraa, isienne Jumalaa, vastaan, sillä se ei teille onnistu."
 2chr 13:13 Mutta Jerobeam oli pannut väkeä kiertämään heidän taakseen väijyksiin, niin että toiset olivat Juudan miesten edessä ja toiset väijyksissä heidän takanaan.
 2chr 13:14 Kun Juudan miehet kääntyivät, niin katso, heillä oli sota edessä ja takana. Silloin he huusivat Herraa, ja papit puhalsivat torviin.
@@ -12303,7 +12303,7 @@ ruth 4:22 Obedille syntyi Iisai, ja Iisaille syntyi Daavid.
 2chr 32:28 varastohuoneita jyvä-, viini- ja öljysatoa varten ja talleja kaikenlaisille juhdille ja karjalaumoja tarhoihin.
 2chr 32:29 Myös rakennutti hän itselleen kaupunkeja ja hankki suuret laumat pikkukarjaa ja nautakarjaa, sillä Jumala oli antanut hänelle ylen suuren omaisuuden.
 2chr 32:30 Hiskia myös tukki Gihonin veden yläjuoksun ja johti veden alas, länteen päin, Daavidin kaupunkiin. Ja Hiskia menestyi kaikessa, mitä hän teki.
-2chr 32:31 Niinpä Jumala ainoastaan koetellakseen häntä ja tullakseen tuntemaan kaiken, mitä hänen sydämessään oli, jätti hänet Baabelin ruhtinasten lähettiläiden valtaan, jotka olivat lähetetyt hänen luokseen tiedustelemaan ihmettä, joka oli tapahtunut maassa.
+2chr 32:31 Niinpä Jumala ainoastaan koetellakseen häntä ja tullakseen tuntemaan kaiken, mitä hänen sydämessään oli, jätti hänet Baabelin ruhtinaiden lähettiläiden valtaan, jotka olivat lähetetyt hänen luokseen tiedustelemaan ihmettä, joka oli tapahtunut maassa.
 2chr 32:32 Mitä muuta on kerrottavaa Hiskiasta ja hänen hurskaista teoistaan, katso, se on kirjoitettuna profeetta Jesajan, Aamoksen pojan, näyssä, Juudan ja Israelin kuningasten kirjassa.
 2chr 32:33 Ja Hiskia meni lepoon isiensä luokse, ja hänet haudattiin siihen, mistä noustaan Daavidin jälkeläisten haudoille. Ja koko Juuda ja Jerusalemin asukkaat osoittivat hänelle kunniaa, kun hän kuoli. Ja hänen poikansa Manasse tuli kuninkaaksi hänen sijaansa.
 2chr 33:0 Luku 33 HEADER
@@ -12609,7 +12609,7 @@ ezra 7:24 Vielä tehdään teille tiettäväksi, ettei kukaan ole oikeutettu vaa
 ezra 7:25 Ja sinä, Esra, aseta Jumalasi viisauden mukaan, joka on sinun kädessäsi, tuomareita ja lakimiehiä tuomitsemaan kaikkea kansaa tuolla puolella Eufrat-virran, kaikkia, jotka tuntevat sinun Jumalasi lain; ja niille, jotka eivät sitä tunne, opettakaa sitä.
 ezra 7:26 Ja jokainen, joka ei seuraa sinun Jumalasi lakia ja kuninkaan lakia, tuomittakoon tarkoin harkiten joko kuolemaan tai karkotukseen, rahasakkoon tai vankeuteen."
 ezra 7:27 Kiitetty olkoon Herra, meidän isiemme Jumala, joka on pannut kuninkaan sydämeen, että hänen on kaunistettava Herran temppeliä Jerusalemissa
-ezra 7:28 ja joka on suonut minun saavuttaa kuninkaan, hänen neuvonantajiensa ja kaikkien kuninkaan mahtavien ruhtinasten suosion. Ja minä rohkaisin mieleni, koska Herran, minun Jumalani, käsi oli minun päälläni, ja minä kokosin Israelista päämiehiä lähtemään kanssani ylös.
+ezra 7:28 ja joka on suonut minun saavuttaa kuninkaan, hänen neuvonantajiensa ja kaikkien kuninkaan mahtavien ruhtinaiden suosion. Ja minä rohkaisin mieleni, koska Herran, minun Jumalani, käsi oli minun päälläni, ja minä kokosin Israelista päämiehiä lähtemään kanssani ylös.
 ezra 8:0 Luku 8 HEADER
 ezra 8:1 Nämä olivat ne heidän perhekunta-päämiehensä ja heidän sukuluetteloihinsa merkityt, jotka kuningas Artahsastan hallituksen aikana lähtivät minun kanssani ylös Baabelista:
 ezra 8:2 Pinehaan jälkeläisiä Gersom; Itamarin jälkeläisiä Daniel; Daavidin jälkeläisiä Hattus;
@@ -13143,7 +13143,7 @@ esth 1:12 Mutta kuningatar Vasti kieltäytyi tulemasta, vaikka kuningas hoviherr
 esth 1:13 Ja kuningas puhui viisaille, ajantietäjille – sillä näin oli tapana esittää kuninkaan sana kaikille lain ja oikeuden tuntijoille,
 esth 1:14 ja hänen lähimpänsä olivat Karsena, Setar, Admata, Tarsis, Meres, Marsena ja Memukan, seitsemän Persian ja Meedian ruhtinasta, jotka näkivät kuninkaan kasvot ja istuivat valtakunnan ensimmäisinä:
 esth 1:15 "Mitä on lain mukaan tehtävä kuningatar Vastille, koska hän ei ole noudattanut käskyä, jonka kuningas Ahasveros on antanut hoviherrojen kautta?"
-esth 1:16 Niin Memukan sanoi kuninkaan ja ruhtinasten edessä: "Kuningatar Vasti ei ole rikkonut ainoastaan kuningasta vastaan, vaan myös kaikkia ruhtinaita vastaan ja kaikkia kansoja vastaan kuningas Ahasveroksen kaikissa maakunnissa.
+esth 1:16 Niin Memukan sanoi kuninkaan ja ruhtinaiden edessä: "Kuningatar Vasti ei ole rikkonut ainoastaan kuningasta vastaan, vaan myös kaikkia ruhtinaita vastaan ja kaikkia kansoja vastaan kuningas Ahasveroksen kaikissa maakunnissa.
 esth 1:17 Kun kuningattaren teko tulee kaikkien naisten tietoon, saattaa se heidät halveksimaan aviomiehiään, he kun voivat sanoa: 'Kuningas Ahasveros käski tuoda kuningatar Vastin eteensä, mutta tämä ei tullut.'
 esth 1:18 Jo tänä päivänä voivat Persian ja Meedian ruhtinattaret, jotka kuulevat kuningattaren teon, puhua siitä kaikille kuninkaan ruhtinaille, ja siitä tulee halveksimista ja suuttumusta riittämään asti.
 esth 1:19 Jos kuningas hyväksi näkee, julkaistakoon kuninkaallinen käsky ja kirjoitettakoon muuttumattomana Persian ja Meedian lakeihin, ettei Vasti enää saa tulla kuningas Ahasveroksen eteen ja että kuningas antaa hänen kuninkaallisen arvonsa toiselle, häntä paremmalle.
@@ -13175,7 +13175,7 @@ esth 2:21 niin siihen aikaan, Mordokain istuskellessa kuninkaan portissa, Bigtan
 esth 2:22 Mutta se tuli Mordokain tietoon, ja hän ilmaisi sen kuningatar Esterille, ja Ester sanoi sen Mordokain nimessä kuninkaalle.
 esth 2:23 Ja asia tutkittiin, ja kun se havaittiin todeksi, ripustettiin ne molemmat hirsipuuhun. Ja se kirjoitettiin aikakirjaan kuningasta varten.
 esth 3:0 Luku 3 HEADER
-esth 3:1 Näiden tapausten jälkeen kuningas Ahasveros korotti agagilaisen Hamanin, Hammedatan pojan, ylensi hänet ja antoi hänelle ylimmän sijan kaikkien ruhtinasten joukossa, jotka olivat hänen luonaan.
+esth 3:1 Näiden tapausten jälkeen kuningas Ahasveros korotti agagilaisen Hamanin, Hammedatan pojan, ylensi hänet ja antoi hänelle ylimmän sijan kaikkien ruhtinaiden joukossa, jotka olivat hänen luonaan.
 esth 3:2 Ja kaikki kuninkaan palvelijat, jotka olivat kuninkaan portissa, polvistuivat ja heittäytyivät maahan Hamanin edessä, sillä niin oli kuningas käskenyt häntä kohdella. Mutta Mordokai ei polvistunut eikä heittäytynyt maahan.
 esth 3:3 Niin kuninkaan palvelijat, jotka olivat kuninkaan portissa, sanoivat Mordokaille: "Miksi sinä rikot kuninkaan käskyn?"
 esth 3:4 Ja kun he joka päivä sanoivat hänelle näin, mutta hän ei heitä totellut, ilmoittivat he tämän Hamanille, nähdäkseen, oliko Mordokain sanoma syy pätevä; sillä hän oli ilmoittanut heille olevansa juutalainen.
@@ -13595,7 +13595,7 @@ job 12:17 Hän vie neuvonantajat pois paljaiksi riistettyinä ja tekee tuomarit 
 job 12:18 Kuningasten kurituksesta hän kirvoittaa ja köyttää köyden heidän omiin vyötäisiinsä.
 job 12:19 Hän vie papit pois paljaiksi riistettyinä, ja ikimahtavat hän kukistaa.
 job 12:20 Hän hämmentää luotettavien puheen ja ottaa pois vanhoilta taidon.
-job 12:21 Hän vuodattaa ylenkatsetta ruhtinasten päälle ja aukaisee virtojen padot.
+job 12:21 Hän vuodattaa ylenkatsetta ruhtinaiden päälle ja aukaisee virtojen padot.
 job 12:22 Hän paljastaa syvyydet pimeyden peitosta ja tuo valoon pilkkopimeän.
 job 12:23 Hän korottaa kansat, ja hän hävittää ne, hän laajentaa kansakunnat, ja hän kuljettaa ne pois.
 job 12:24 Maan kansan päämiehiltä hän ottaa ymmärryksen ja panee heidät harhailemaan tiettömissä autioissa.
@@ -14005,7 +14005,7 @@ job 29:6 jolloin askeleeni kylpivät kermassa ja kallio minun vierelläni vuoti 
 job 29:7 Kun menin kaupunkiin porttiaukealle, kun asetin istuimeni torille,
 job 29:8 niin nuorukaiset väistyivät nähdessään minut, vanhukset nousivat ja jäivät seisomaan,
 job 29:9 päämiehet lakkasivat puhumasta ja panivat kätensä suulleen.
-job 29:10 Ruhtinasten ääni vaikeni, ja heidän kielensä tarttui suulakeen.
+job 29:10 Ruhtinaiden ääni vaikeni, ja heidän kielensä tarttui suulakeen.
 job 29:11 Sillä kenen korva minusta kuuli, hän ylisti minua onnelliseksi, kenen silmä minut näki, hän minusta todisti;
 job 29:12 minä näet pelastin kurjan, joka apua huusi, ja orvon, jolla ei auttajaa ollut.
 job 29:13 Menehtyväisen siunaus tuli minun osakseni, ja lesken sydämen minä saatoin riemuitsemaan.
@@ -16322,7 +16322,7 @@ ps 107:36 Ja hän asetti nälkäiset sinne asumaan ja he rakensivat kaupungin as
 ps 107:37 Ja he kylvivät peltoja ja istuttivat viinitarhoja, jotka tuottivat satoisan hedelmän.
 ps 107:38 Hän siunasi heitä, ja he lisääntyivät suuresti, ja hän antoi heille paljon karjaa.
 ps 107:39 Ja kun he vähentyivät ja vaipuivat onnettomuuden ja huolten painon alla,
-ps 107:40 niin hän, joka vuodattaa ylenkatsetta ruhtinasten päälle ja panee heidät harhailemaan tiettömissä autiomaissa,
+ps 107:40 niin hän, joka vuodattaa ylenkatsetta ruhtinaiden päälle ja panee heidät harhailemaan tiettömissä autiomaissa,
 ps 107:41 hän kohotti köyhän kurjuudesta ja teki suvut suuriksi kuin lammaslaumat.
 ps 107:42 Oikeamieliset näkevät sen ja riemuitsevat, ja kaiken vääryyden täytyy tukkia suunsa.
 ps 107:43 Joka viisas on, se painakoon nämä mieleensä ja ajatelkoon Herran armotekoja.
@@ -16410,7 +16410,7 @@ ps 113:4 Herra on korkea yli kaikkien pakanakansojen, yli taivasten kohoaa häne
 ps 113:5 Kuka on niin kuin Herra, meidän Jumalamme, joka korkealla asuu
 ps 113:6 ja katsoo syvälle – taivaassa ja maassa?
 ps 113:7 Hän, joka tomusta nostaa alhaisen, korottaa loasta köyhän
-ps 113:8 asettaakseen hänet ruhtinasten rinnalle, hänen kansansa ruhtinasten rinnalle,
+ps 113:8 asettaakseen hänet ruhtinaiden rinnalle, hänen kansansa ruhtinaiden rinnalle,
 ps 113:9 joka antaa hedelmättömän asua kodissa, iloisena lasten äitinä! Halleluja!
 ps 114:0 Luku 114 HEADER
 ps 114:1 Kun Israel lähti Egyptistä, Jaakobin suku vieraskielisestä kansasta,
@@ -17945,7 +17945,7 @@ prov 31:0 Luku 31 HEADER
 prov 31:1 Lemuelin, Massan kuninkaan, sanat, joilla hänen äitinsä kasvatti häntä.
 prov 31:2 Mitä, poikani; mitä, kohtuni poika; mitä, lupausteni poika?
 prov 31:3 Älä anna voimaasi naisille, vaellustasi kuningasten turmelijatarten valtaan.
-prov 31:4 Ei sovi kuningasten, Lemuel, ei sovi kuningasten viiniä juoda eikä ruhtinasten kysellä: "Missä väkijuomaa?"
+prov 31:4 Ei sovi kuningasten, Lemuel, ei sovi kuningasten viiniä juoda eikä ruhtinaiden kysellä: "Missä väkijuomaa?"
 prov 31:5 Muutoin hän juodessaan unohtaa, mitä säädetty on, ja vääristää kaikkien kurjien oikeuden.
 prov 31:6 Antakaa väkevää juomaa menehtyvälle ja viiniä murhemielisille.
 prov 31:7 Sellainen juokoon ja unohtakoon köyhyytensä älköönkä enää vaivaansa muistelko.
@@ -18598,7 +18598,7 @@ isa 12:5 Laulakaa ylistystä Herralle, sillä jaloja töitä hän on tehnyt; tul
 isa 12:6 Huutakaa ja riemuitkaa, Siionin asukkaat, sillä suuri on teidän keskellänne Israelin Pyhä."
 isa 13:0 Luku 13 HEADER
 isa 13:1 Ennustus Baabelista, Jesajan, Aamoksen pojan, näkemä.
-isa 13:2 Pystyttäkää viiri paljaalle vuoren laelle, korottakaa äänenne heille, viittokaa kädellä heitä menemään sisälle ruhtinasten porteista.
+isa 13:2 Pystyttäkää viiri paljaalle vuoren laelle, korottakaa äänenne heille, viittokaa kädellä heitä menemään sisälle ruhtinaiden porteista.
 isa 13:3 Minä olen antanut käskyn vihkiytyneilleni ja kutsunut urhoni vihani työhön, ylvääni, riemuitsevaiseni.
 isa 13:4 Kuule, vuorilla käy kuin paljon väen pauhina; kuule valtakuntien, kokoontuneiden kansojen kohinaa: Herra Sebaot katsastaa sotajoukkoaan.
 isa 13:5 He tulevat kaukaisesta maasta, taivaan ääristä, Herra ja hänen vihansa aseet, hävittämään kaiken maan.
@@ -19905,7 +19905,7 @@ jer 7:32 Siksi, katso, päivät tulevat, sanoo Herra, jolloin ei enää sanota '
 jer 7:33 Ja tämän kansan ruumiit joutuvat taivaan lintujen ja maan eläinten ruoaksi, eikä näitä kukaan karkota.
 jer 7:34 Ja minä lopetan Juudan kaupungeista ja Jerusalemin kaduilta riemun ja ilon huudon, huudon sulhaselle ja huudon morsiamelle, sillä maa on tuleva raunioiksi."
 jer 8:0 Luku 8 HEADER
-jer 8:1 "Siihen aikaan, sanoo Herra, otetaan Juudan kuningasten ja sen ruhtinasten luut, pappien ja profeettojen luut sekä Jerusalemin asukasten luut pois heidän haudoistaan
+jer 8:1 "Siihen aikaan, sanoo Herra, otetaan Juudan kuningasten ja sen ruhtinaiden luut, pappien ja profeettojen luut sekä Jerusalemin asukasten luut pois heidän haudoistaan
 jer 8:2 ja hajotetaan auringon, kuun ja kaiken taivaan joukon eteen, joita he rakastivat ja palvelivat, joita he seurasivat, etsivät ja kumartaen rukoilivat; niitä ei koota eikä haudata, vaan ne tulevat maan lannaksi.
 jer 8:3 Ja kuolema on oleva halutumpi kuin elämä koko sille jäännökselle, joka jää jäljelle tästä pahasta sukukunnasta, kaikissa paikoissa, mihin minä karkotan nämä jäljelle jääneet, sanoo Herra Sebaot.
 jer 8:4 Ja sano heille: Näin sanoo Herra: Eikö se, joka lankeaa, nouse jälleen? Eikö se, joka kääntyy pois, käänny takaisin?
@@ -20994,7 +20994,7 @@ jer 50:31 Katso, minä käyn sinun kimppuusi, sinä ylpeä, sanoo Herra, Herra S
 jer 50:32 Ylpeä kompastuu ja kaatuu, eikä ole hänen nostajaansa. Ja minä sytytän hänen kaupunkinsa tuleen, ja se kuluttaa ne ja kaiken, mitä hänen ympärillään on.
 jer 50:33 Näin sanoo Herra Sebaot: Sorrettuja ovat niin israelilaiset kuin Juudan miehet, ja kaikki heidän vangitsijansa pitävät heitä kiinni, he eivät tahdo päästää heitä irti.
 jer 50:34 Mutta heidän lunastajansa on väkevä, Herra Sebaot on hänen nimensä. Hän ajaa heidän asiansa, tuo rauhan maan päälle, mutta Baabelin asukkaille vavistuksen.
-jer 50:35 Miekka kaldealaisten kimppuun, sanoo Herra, ja Baabelin asukasten kimppuun, sen ruhtinasten ja tietäjien kimppuun!
+jer 50:35 Miekka kaldealaisten kimppuun, sanoo Herra, ja Baabelin asukasten kimppuun, sen ruhtinaiden ja tietäjien kimppuun!
 jer 50:36 Miekka valehtelijoiden kimppuun, ja he typertyvät! Miekka sen sankarien kimppuun, ja he kauhistuvat!
 jer 50:37 Miekka sen hevosten ja vaunujen kimppuun ja kaiken sekakansan kimppuun, joka on sen keskellä, ja he muuttuvat naisiksi! Miekka sen aarteiden kimppuun, ja ne ryöstetään!
 jer 50:38 Helle sen vetten kimppuun, ja ne kuivuvat! Sillä se on jumalankuvien maa, ja hirmujumaliinsa he uskaltavat mielettömästi.
@@ -22843,7 +22843,7 @@ dan 8:21 Ja vuohipukki on Javanin kuningas, ja suuri sarvi, joka sillä oli kesk
 dan 8:22 Ja että se särkyi ja neljä nousi sen sijalle, se on: neljä valtakuntaa nousee siitä kansasta, ei kuitenkaan niin väkevää kuin hän.
 dan 8:23 Ja heidän valtansa lopulla, kun luopiot ovat täyttäneet syntiensä mitan, nousee kuningas, kasvoilta röyhkeä ja juonissa taitava.
 dan 8:24 Ja väkevä on hänen voimansa, vaikka ei tosin hänen omasta voimastaan, ja ihmeellisen paljon hän saa aikaan hävitystä; ja hän menestyy siinä, mitä hän tekee, ja hän tuottaa turmion väkeville ja pyhien kansalle.
-dan 8:25 Ja hänen oveluutensa tähden onnistuu petos hänen kädessään. Hän hautoo suuria sydämessään, ja keskellä rauhaa hän tuottaa turmion monille. Ruhtinasten ruhtinastakin vastaan hän nousee, mutta ilman ihmiskättä hänet muserretaan.
+dan 8:25 Ja hänen oveluutensa tähden onnistuu petos hänen kädessään. Hän hautoo suuria sydämessään, ja keskellä rauhaa hän tuottaa turmion monille. Ruhtinaiden ruhtinastakin vastaan hän nousee, mutta ilman ihmiskättä hänet muserretaan.
 dan 8:26 Ja näky illoista ja aamuista, josta oli puhe, on tosi. Mutta sinä lukitse näky, sillä se tarkoittaa kaukaista aikaa."
 dan 8:27 Ja minä, Daniel, olin raukea ja sairastin jonkin aikaa. Sitten minä nousin ja toimitin palvelusta kuninkaan luona; ja minä olin hämmästyksissäni näyn tähden enkä sitä ymmärtänyt.
 dan 9:0 Luku 9 HEADER
@@ -24105,7 +24105,7 @@ matt 2:2 ja he sanoivat: "Missä on se äsken syntynyt juutalaisten kuningas? Si
 matt 2:3 Kun kuningas Herodes sen kuuli, hämmästyi hän ja koko Jerusalem hänen kanssaan.
 matt 2:4 Ja hän kokosi kaikki kansan ylipapit ja kirjanoppineet ja kyseli heiltä, missä Kristus oli syntyvä.
 matt 2:5 He sanoivat hänelle: "Juudean Betlehemissä, sillä näin on kirjoitettu profeetan kautta:
-matt 2:6 Sinä Betlehem, Juudan maa, et suinkaan ole vähäisin Juudan ruhtinasten joukossa, sillä sinusta lähtee hallitsija, joka kaitsee minun kansaani Israelia."
+matt 2:6 Sinä Betlehem, Juudan maa, et suinkaan ole vähäisin Juudan ruhtinaiden joukossa, sillä sinusta lähtee hallitsija, joka kaitsee minun kansaani Israelia."
 matt 2:7 Silloin Herodes kutsui salaa tietäjät luokseen ja tutkiskeli heiltä tarkoin tähden ilmestymisaikaa.
 matt 2:8 Ja hän lähetti heidät Betlehemiin sanoen: "Menkää ja kyselkää tarkasti lasta, ja kun hänet löydätte, ilmoittakaa minulle, jotta minäkin tulisin osoittamaan hänelle kunnioitusta."
 matt 2:9 Kuultuaan kuningasta he lähtivät matkaan. Ja katso, tähti, jonka he olivat nähneet itämailla, kulki heidän edellään, kunnes pysähtyi tultuaan sen paikan ylle, jossa lapsi oli.
